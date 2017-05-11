@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-var  PackageTabar= require('./Class/packageTabbar');
+var  PackageTabar= require('./Class/Main/packageTabbar');
 
 export default class zhylTabbar extends Component {
     render() {
